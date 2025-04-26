@@ -1,7 +1,7 @@
 <h1 align="center" style="animation: fadeIn 2s ease-in-out;">👋 Welcome to Abdelrhman Islam's Profile 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+and+Data+Science+Student;Web+Developer;Cyber+Security+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=45" style="animation: bounce 2s ease infinite;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+and+Data+Science+Student;Web+Developer;Cyber+Security+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=45" style="animation: bounce 2s infinite;">
 </p>
 
 <br clear="both">
@@ -117,5 +117,17 @@
   @keyframes slideUp {
     0% { transform: translateY(50px); opacity: 0; }
     100% { transform: translateY(0); opacity: 1; }
+  }
+
+  h1, p img {
+    animation: fadeIn 2s ease-in-out;
+  }
+
+  p img {
+    animation: bounce 2s infinite;
+  }
+
+  img {
+    animation: slideUp 1s ease-out;
   }
 </style>
