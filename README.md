@@ -48,7 +48,7 @@
   <a href="https://threads.net/@abdelrhman___islam" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" height="35" /></a>
   <a href="https://nabee3.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white" height="35" /></a>
   <a href="https://github.com/AbdelrhmanIslam" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>
-  <a href="https://linkedin.com/in/abdelrhman-islam-565747317" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
+  <a href="www.linkedin.com/in/abdelrhman-islam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
 </div>
 
 ---
