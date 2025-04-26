@@ -1,12 +1,12 @@
-<h1 align="center">👋 Welcome to Abdelrhman Islam's Profile 👨‍💻</h1>
+<h1 align="center" style="animation: fadeIn 2s ease-in-out;">👋 Welcome to Abdelrhman Islam's Profile 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+and+Data+Science+Student;Web+Developer;Cyber+Security+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+and+Data+Science+Student;Web+Developer;Cyber+Security+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=45" style="animation: bounce 2s ease infinite;">
 </p>
 
 <br clear="both">
 
-<img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="animation: slideUp 1s ease-out;">
 
 ## 👨‍💻 About Me
 - 🎓 I'm a **Computer and Data Science** student.
@@ -92,3 +92,30 @@
 - أطمح دائمًا إلى **تطوير مهاراتي** و**خوض تحديات جديدة**.
 
 ---
+
+<style>
+  /* Fade In Effect */
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  /* Bounce Effect */
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+
+  /* Slide Up Effect */
+  @keyframes slideUp {
+    0% { transform: translateY(50px); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+  }
+</style>
