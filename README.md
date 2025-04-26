@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://cdn.pixabay.com/animation/2022/07/29/06/57/06-57-28-376_512.gif" />
+<img align="right" height="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ## 👨‍💻 About Me
 - 🎓 I'm a **Computer and Data Science** student.
@@ -17,7 +17,7 @@
 <br clear="both">
 
 ## 🚀 Skills
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,php,linux,git,github,photoshop,vscode,visualstudio,r,regex,canva" />
 </div>
 
@@ -25,31 +25,49 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanIslam&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanIslam&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanIslam&show_icons=true&theme=tokyonight&locale=en" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrhmanIslam&theme=tokyonight" height="180" />
 </div>
 
 <br clear="both">
 
 ## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrhmanIslam&theme=algolia&row=2&column=3" alt="Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrhmanIslam&theme=algolia&row=2&column=3" />
+</div>
 
 <br clear="both">
 
 ## 🌐 Connect With Me
-<div align="center">
-  <a href="https://linktr.ee/abdelrhman___islam" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" height="35" /></a>
-  <a href="https://facebook.com/people/عبدالرحمن-اسلام/100081320320023" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" height="35" /></a>
-  <a href="https://tiktok.com/@abdelrhman___islam" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white" height="35" /></a>
-  <a href="https://instagram.com/abdelrhman___islam" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" height="35" /></a>
-  <a href="https://x.com/abrhman___islam?t=78d-nAXsRzbKoeogpGJCig&s=08" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" height="35" /></a>
-  <a href="https://threads.net/@abdelrhman___islam" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" height="35" /></a>
-  <a href="https://nabee3.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Blogger&logoColor=white" height="35" /></a>
-  <a href="https://github.com/AbdelrhmanIslam" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>
-  <a href="www.linkedin.com/in/abdelrhman-islam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
-</div>
+<p align="center">
+  <a href="https://linktr.ee/abdelrhman___islam" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/people/عبدالرحمن-اسلام/100081320320023" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@abdelrhman___islam" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abdelrhman___islam" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/abrhman___islam?t=78d-nAXsRzbKoeogpGJCig&s=08" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://threads.net/@abdelrhman___islam" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" />
+  </a>
+  <a href="https://nabee3.blogspot.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdelrhmanIslam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdelrhman-islam-565747317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -67,11 +85,10 @@
 
 # 🇸🇦 النسخة العربية
 ---
-### مرحبًا بك في صفحتي 👋
+### 👋 مرحبًا بك في صفحتي
 - طالب بكلية **الحاسبات وعلوم البيانات**.
 - شغوف بتعلم **البرمجة** و**تطوير الويب** و**الأمن السيبراني**.
 - أستطيع التحدث باللغات **العربية** و**الإنجليزية** و**الألمانية**.
 - أطمح دائمًا إلى **تطوير مهاراتي** و**خوض تحديات جديدة**.
 
 ---
-
