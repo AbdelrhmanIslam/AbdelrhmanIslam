@@ -1,4 +1,4 @@
-<h1> align="center">👋 Welcome to Abdelrhman Islam's Profile 👨‍💻</h1>
+<h1 align="center">👋 Welcome to Abdelrhman Islam's Profile 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+and+Data+Science+Student;Web+Developer;Cyber+Security+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=45">
