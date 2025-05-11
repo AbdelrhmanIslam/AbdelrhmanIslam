@@ -43,7 +43,7 @@
   <a href="https://instagram.com/abdelrhman___islam" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/abrhman___islam?t=78d-nAXsRzbKoeogpGJCig&s=08" target="_blank">
+  <a href="https://x.com/abrhman___islam?t=78d-nAXsRzbKoeogpGJCig&amp;s=08" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://threads.net/@abdelrhman___islam" target="_blank">
