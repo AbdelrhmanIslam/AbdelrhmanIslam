@@ -14,7 +14,7 @@
 
 ## 🚀 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,php,linux,git,github,photoshop,vscode,visualstudio,r,regex,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,php,linux,git,github,photoshop,vscode,visualstudio,r,regex,canva,mysql,sql,excel,word" />
 </p>
 
 ## 📊 GitHub Stats
@@ -70,17 +70,12 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+---
+
 ## 🔥 Fun Fact
 
 > ✨ I love exploring new tech, hacking challenges, and learning every single day!
 
 ---
-
-## 🇸🇦 النسخة العربية
-
-### 👋 مرحبًا بك في صفحتي
-
-- طالب بكلية **الحاسبات وعلوم البيانات**.  
-- شغوف بتعلم **البرمجة** و**تطوير الويب** و**الأمن السيبراني**.  
-- أستطيع التحدث باللغات **العربية** و**الإنجليزية** و**الألمانية**.  
-- أطمح دائمًا إلى **تطوير مهاراتي** و**خوض تحديات جديدة**.  
