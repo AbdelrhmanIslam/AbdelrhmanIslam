@@ -14,12 +14,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/AbdelrhmanIslam](https://github.com/AbdelrhmanIslam)
 - 📫 How to reach me **abdelrhman.islam04@gmail.com**
 - 📄 Know about me <a href="https://flowcv.com/resume/ " target="_blank"> CV </a>
-- <a href="https://www.linkedin.com/in/  " target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Noor Tantawy" height="50" width="50" />
-
 
 ## 🚀 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,php,linux,git,github,photoshop,vscode,visualstudio,r,regex,,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,php,linux,git,github,photoshop,vscode,visualstudio,r,regex,mysql" />
 </p>
 
 ## 📊 GitHub Stats
